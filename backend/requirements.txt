@@ -11,3 +11,5 @@ trustcall
 langgraph-cli[inmem]
 pydantic
 langchain_openai
+fastapi
+uvicorn
